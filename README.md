@@ -20,7 +20,7 @@ For each repetition, our proposed method is trained and tested independently, th
 
 # Results
 
-Our model performance:
+Tri-modal performance:
 
 ![Results](images/tri_modal_results.png)
 
