@@ -23,7 +23,7 @@ Our model performance:
 ![Results](images/tri_modal_results.png)
 
 t-SNE:
-![tsne](images/tri_modal_results_tsne.png)
+![tsne](images/tri_modal_tsne.png)
 
 # Contributors
 Nelson Minaya nelson.minaya@student.csulb.edu <br/>
