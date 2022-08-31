@@ -7,7 +7,7 @@ import pandas as pd
 import sys
 sys.path.append("../libs")
 from Gait_Dataset_V2 import Dataset
-from ENSEMBLE_CNN_LSTM import CNN_LSTM
+from ENSEMBLE_CNN_RNN import CNN_LSTM
 
 
 #*****************************************************************    
