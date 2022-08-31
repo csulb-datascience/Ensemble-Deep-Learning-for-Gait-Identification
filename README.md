@@ -13,4 +13,4 @@ python Experiments_CNN.py
 python Experiments_RNN.py
 python Experiments_Ensemble.py
 ```
-We repeat the experiment 20 times. 
+We repeat the experiment 20 times for each K and for three types of Monte Carlo Cross-Validation (MCCV) methods, which are MCCV (30%), Sub-MCCV, (50%), and MCCV (50%) described in the paper.
