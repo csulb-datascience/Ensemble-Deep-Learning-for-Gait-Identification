@@ -8,7 +8,7 @@ pip install -r requirements.txt
 # Training
 The averaging ensemble model utilizes a CNN and a RNN model trained independently. The trained models are saved in folder especified in the source code. The sequence required to train the whole model is as follows:
 ```
-cd models
+cd code/models
 python Experiments_CNN.py
 python Experiments_RNN.py
 python Experiments_Ensemble.py
