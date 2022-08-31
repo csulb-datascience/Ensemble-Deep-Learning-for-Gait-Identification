@@ -21,7 +21,6 @@ For each repetition, our proposed method is trained and tested independently, th
 # Results
 Our model performance:
 ![Results](images/tri_modal_results.png)
-
 t-SNE:
 ![tsne](images/tri_modal_tsne.png)
 
