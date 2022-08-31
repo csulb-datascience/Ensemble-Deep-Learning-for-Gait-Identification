@@ -6,7 +6,7 @@ To install requirements:
 pip install -r requirements.txt
 ```
 # Training
-The averaging ensemble model utilizes a CNN and a RNN model trained independently. The trained models are saved in folders especified in the source code. The sequence required to train the tri-modal is as follows:
+The averaging ensemble model utilizes a CNN and a RNN model trained independently. The trained models are saved in folders especified in the source code. The required sequence to train the tri-modal is as follows:
 ```
 cd code/tri-modal
 python Experiments_CNN.py
